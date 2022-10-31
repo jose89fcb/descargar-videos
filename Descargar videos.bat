@@ -17,7 +17,7 @@ echo                           %white%Esta aplicacion descarga los videos
 echo.
 echo.
 echo.
-echo.                            %white%-AtresPlayer.com
+echo.                            %white%-AtresPlayer.com (Solo formato .m3u8)
 echo                             %Red%-Mitele.es
 echo                             %Magenta%-Youtube.com
 echo                             %Blue%-rtve.es
